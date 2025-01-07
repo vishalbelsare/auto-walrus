@@ -30,7 +30,7 @@ Sample `.pre-commit-config.yaml`:
 
 ```yaml
 -   repo: https://github.com/MarcoGorelli/auto-walrus
-    rev: v0.2.2
+    rev: 0.3.4
     hooks:
     -   id: auto-walrus
 ```
@@ -67,6 +67,7 @@ To my great surprise, this is being used by:
 - https://github.com/python-graphblas/python-graphblas
 - https://github.com/Remi-Gau/bids2cite
 - https://github.com/TheAlgorithms/Python
+- https://github.com/apache/superset
 
 Anyone else? Please let me know, or you can open a pull request to add yourself.
 
